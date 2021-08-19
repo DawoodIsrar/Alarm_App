@@ -1,0 +1,4 @@
+enum MenuType{
+  clock,
+  alarm
+}
